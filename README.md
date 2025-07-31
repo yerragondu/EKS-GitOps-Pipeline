@@ -19,14 +19,6 @@ A complete production-grade CI/CD pipeline using Jenkins, Docker, SonarQube, Tri
 - 📬 **Notifications**: Slack/email integration for build & deploy status
 - 🔁 **Auto Deployment**: Jenkins triggers CD job to auto-update manifests and deploy to EKS
 
-## 📁 Project Structure
-📦register-app
-┣ 📂src
-┣ 📜Jenkinsfile --> CI pipeline
-📦gitops-repo
-┣ 📜deployment.yaml --> Kubernetes manifests
-┣ 📜Jenkinsfile --> CD pipeline
-
 
 ## 🚀 How It Works (Flow)
 1. Developer pushes code → GitHub triggers Jenkins CI job
