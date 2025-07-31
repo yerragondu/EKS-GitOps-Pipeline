@@ -34,7 +34,7 @@ A complete production-grade CI/CD pipeline using Jenkins, Docker, SonarQube, Tri
 
 ## 🧪 Demo
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/project-name/main/screenshots/pipeline-flow.png" width="600"/>
+  <img src="https://github.com/yerragondu/EKS-GitOps-Pipeline/blob/main/Images/Screenshot%202025-07-30%20210911.png" width="600"/>
 </p>
 
 ## 👨‍💻 Try It Yourself
