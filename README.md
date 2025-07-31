@@ -36,7 +36,9 @@ A complete production-grade CI/CD pipeline using Jenkins, Docker, SonarQube, Tri
 <p align="center">
   <img src="https://github.com/yerragondu/EKS-GitOps-Pipeline/blob/main/Images/Screenshot%202025-07-30%20210911.png" width="600"/>
 </p>
-
+<p align="center">
+  <img src="https://github.com/yerragondu/EKS-GitOps-Pipeline/blob/main/Images/Screenshot%202025-07-30%20210712.png" width="600"/>
+</p>
 ## 👨‍💻 Try It Yourself
 1. Fork the repo
 2. Edit Jenkinsfiles to match your credentials
